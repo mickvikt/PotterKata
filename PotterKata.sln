@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PotterKata", "PotterKata\PotterKata.csproj", "{FD24C0FF-341F-4B29-9B36-EA91DA76394B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{C03C60A5-0FB3-4A0C-933E-373F4C6F9DC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD24C0FF-341F-4B29-9B36-EA91DA76394B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD24C0FF-341F-4B29-9B36-EA91DA76394B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD24C0FF-341F-4B29-9B36-EA91DA76394B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD24C0FF-341F-4B29-9B36-EA91DA76394B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C03C60A5-0FB3-4A0C-933E-373F4C6F9DC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C03C60A5-0FB3-4A0C-933E-373F4C6F9DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C03C60A5-0FB3-4A0C-933E-373F4C6F9DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C03C60A5-0FB3-4A0C-933E-373F4C6F9DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
